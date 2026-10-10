@@ -1,6 +1,6 @@
 Dyslexia PlayLab
 
-Project Description: An interactive Unity-based learning application designed to help learners practise letters, words, and listening activities.
+Project Description: An interactive Unity-based learning application designed to help dyslexic learners practice letters, words, and listening activities.
 
 Unity Project Repository: 
 
